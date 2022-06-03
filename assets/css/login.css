@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap");
+.login .card-new {
+  width: 300px;
+  height: 350px;
+  margin: 0 auto;
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  margin-top: 150px;
+}
+
+.login input {
+  margin: 5px;
+  padding: 5px;
+  width: 200px;
+  margin-left: 40px;
+}
+
+.login button {
+  margin: 15px 5px 5px 5px;
+  padding: 5px;
+  background-color: #00ffff;
+  border: 1px;
+  border-radius: 12px;
+  width: 70%;
+  height: 35px;
+  color: black;
+  cursor: pointer;
+  font-size: 15px;
+  margin-left: 40px;
+}
+/*# sourceMappingURL=login.css.map */

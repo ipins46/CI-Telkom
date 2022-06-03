@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap');
+
+
+// breadcrumb
+.breadcrumbs {
+  .list {
+    background-color: #fff;
+  }
+}
+// breadcrumb
+
+// row-cart
+.row-cart {
+  background-color: #fff;
+  margin: 0;
+  padding: 5px;
+  padding-top: 16px;
+
+  .img-cart {
+    width: 70px;
+  }
+
+  .th-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  
+}
+
+@media only screen and (min-width: 768px) {
+  #table-checkout {
+    width: 40%;
+  }
+}
+
+
+// row-cart

@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap");
+body {
+  background-color: #eaeaea;
+  font-family: 'Poppins', sans-serif;
+  color: #2d2d2d;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header .form-control {
+  font-size: 14px;
+}
+
+.header .cart {
+  color: #fff;
+  font-size: 25px;
+}
+
+.header .cart:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.header .nav-item .nav-link {
+  color: #fff;
+}
+
+.header .btn-login {
+  color: #fff;
+  background-color: #061F40;
+  border-color: #fff;
+}
+
+.header .btn-login:hover {
+  color: #061F40;
+  background-color: #fff;
+}
+
+.header .btn-regist {
+  color: #E3FC00;
+  background-color: #061F40;
+  border-color: #E3FC00;
+}
+
+.header .btn-regist:hover {
+  color: #061F40;
+  background-color: #E3FC00;
+}
+
+@media screen and (min-width: 994px) {
+  .header .form-control {
+    width: 350px;
+  }
+}
+
+@media screen and (max-width: 994px) {
+  .header .navbar-nav {
+    text-align: center;
+  }
+}
+
+.product .title-product {
+  background-color: #fff;
+  padding: 5px 10px;
+  border-color: #061F40;
+}
+
+.product .title-product .text-center {
+  margin-top: 5px;
+}
+
+.product .card:hover {
+  border: 1px solid #2d2d2d;
+}
+
+.product .card-body .card-text {
+  text-align: right;
+}
+
+.product .seemore {
+  width: 540px;
+}
+
+.product .seemore a {
+  float: right;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=home.css.map */

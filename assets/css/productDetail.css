@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap");
+.breadcrumbs .list {
+  background-color: #fff;
+}
+
+.singleProduct .row-product {
+  background-color: #fff;
+  margin: 0;
+  padding: 5px;
+  padding-top: 16px;
+}
+
+.singleProduct .row-product .img-product {
+  border-radius: 5px;
+  width: 450px;
+}
+
+.singleProduct .row-product .img-productDetail {
+  border-radius: 5px;
+  width: 70px;
+}
+
+.singleProduct .row-product .garisJudul {
+  border-bottom: 2px solid #2d2d2d;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.singleProduct .row-product .btn-product a {
+  font-size: 14px;
+}
+/*# sourceMappingURL=productDetail.css.map */

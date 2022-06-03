@@ -1,0 +1,203 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300&display=swap");
+body {
+  background-color: #eaeaea;
+  font-family: 'Poppins', sans-serif;
+  color: #2d2d2d;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header .form-control {
+  font-size: 14px;
+}
+
+.header .cart {
+  color: #fff;
+  font-size: 25px;
+}
+
+.header .cart:hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.header .nav-item .nav-link {
+  color: #fff;
+}
+
+.header .btn-login {
+  color: #fff;
+  background-color: #061F40;
+  border-color: #fff;
+}
+
+.header .btn-login:hover {
+  color: #061F40;
+  background-color: #fff;
+}
+
+.header .btn-regist {
+  color: #E3FC00;
+  background-color: #061F40;
+  border-color: #E3FC00;
+}
+
+.header .btn-regist:hover {
+  color: #061F40;
+  background-color: #E3FC00;
+}
+
+@media screen and (min-width: 994px) {
+  .header .form-control {
+    width: 350px;
+  }
+}
+
+@media screen and (max-width: 994px) {
+  .header .navbar-nav {
+    text-align: center;
+  }
+}
+
+.product .title-product {
+  background-color: #fff;
+  padding: 5px 10px;
+  border-color: #061F40;
+}
+
+.product .title-product .text-center {
+  margin-top: 5px;
+}
+
+.product .card:hover {
+  border: 1px solid #2d2d2d;
+}
+
+.product .card-body .card-text {
+  text-align: right;
+}
+
+.product .seemore {
+  width: 540px;
+}
+
+.product .seemore a {
+  float: right;
+  text-decoration: underline;
+}
+
+.breadcrumbs .list {
+  background-color: #fff;
+}
+
+.row-cart {
+  background-color: #fff;
+  margin: 0;
+  padding: 5px;
+  padding-top: 16px;
+}
+
+.row-cart .img-cart {
+  width: 70px;
+}
+
+.row-cart .th-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+@media only screen and (min-width: 768px) {
+  #table-checkout {
+    width: 40%;
+  }
+}
+
+.breadcrumbs .list {
+  background-color: #fff;
+}
+
+.singleProduct .row-product {
+  background-color: #fff;
+  margin: 0;
+  padding: 5px;
+  padding-top: 16px;
+}
+
+.singleProduct .row-product .img-product {
+  border-radius: 5px;
+  width: 450px;
+}
+
+.singleProduct .row-product .img-productDetail {
+  border-radius: 5px;
+  width: 70px;
+}
+
+.singleProduct .row-product .garisJudul {
+  border-bottom: 2px solid #2d2d2d;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.singleProduct .row-product .btn-product a {
+  font-size: 14px;
+}
+
+.login body {
+  margin: 0;
+  padding: 0;
+  background-color: #061F40;
+}
+
+.login #main {
+  width: 300px;
+  height: 350px;
+  margin: 0 auto;
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  margin-top: 150px;
+}
+
+.login h1 {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.login form input {
+  margin: 5px;
+  padding: 5px;
+  width: 200px;
+  margin-left: 40px;
+}
+
+.login form button {
+  margin: 5px 5px 5px 5px;
+  padding: 5px;
+  background-color: #00ffff;
+  border: 1px;
+  border-radius: 12px;
+  width: 70%;
+  height: 35px;
+  color: black;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.login div p, .login a {
+  color: white;
+  text-align: center;
+}
+/*# sourceMappingURL=app.css.map */
