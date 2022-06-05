@@ -2,7 +2,7 @@
       <div class="container">
         <nav aria-label="breadcrumb" class="list mt-4">
           <ol class="breadcrumb p-3">
-            <li class="breadcrumb-item"><a href="/home-2.htm">Home</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo base_url(); ?>/Home">Home</a></li>
             <li class="breadcrumb-item active" aria-current="page">Cart</li>
           </ol>
         </nav>
@@ -15,7 +15,7 @@
           <div class="col  table-responsive mt-4 mx-3">
             <table class="table">
               <thead class="table-warning">
-                <tr">
+                <tr>
                   <th scope="col" class="th-header">Gambar</th>
                   <th scope="col" class="th-header">Produk</th>
                   <th scope="col" class="th-header">Jumlah</th>

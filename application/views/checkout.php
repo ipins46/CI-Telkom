@@ -107,7 +107,7 @@
               </thead>
               <tbody class="align-middle">
                 <tr>
-                  <td><img src="<?php echo base_url(); ?>assets//img/product/baju-1.jpg" class="img-cart"></td>
+                  <td><img src="<?php echo base_url(); ?>assets/img/product/baju-1.jpg" class="img-cart"></td>
                   <td>Baju polos <br> Rp. 10.000</td>
                   <td>
                     <span class="mx-4">100</span>
@@ -115,7 +115,7 @@
                   <td>Rp. 1.000.000</td>
                 </tr>
                 <tr>
-                  <td><img src="<?php echo base_url(); ?>assets//img/product/camera-1.jpg" class="img-cart"></td>
+                  <td><img src="<?php echo base_url(); ?>assets/img/product/camera-1.jpg" class="img-cart"></td>
                   <td>Camera Sony <br> Rp. 10.000</td>
                   <td>
                     <span class="mx-4">100</span>
@@ -123,7 +123,7 @@
                   <td>Rp. 1.000.000</td>
                 </tr>
                 <tr>
-                  <td><img src="<?php echo base_url(); ?>assets//img/product/sepatu-1.jpg" class="img-cart"></td>
+                  <td><img src="<?php echo base_url(); ?>assets/img/product/sepatu-1.jpg" class="img-cart"></td>
                   <td>Sepatu Aero <br> Rp. 10.000</td>
                   <td>
                     <span class="mx-4">100</span>
